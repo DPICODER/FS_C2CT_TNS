@@ -9,14 +9,13 @@ public class Conditions {
 				System.out.println("A is Bigger");
 			}
 		}
-		else {
+		else
 			if(c > b){
 				System.out.println("C is bigger");
 			}
 			else
 			System.out.println("B is Bigger");
 		}
-	}
 	public static void main(String[] args) {
 		basic_conditions();
 	}
