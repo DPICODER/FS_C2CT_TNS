@@ -1,7 +1,5 @@
 //oops concepts
 
-
-
 public class Customer {
 
 	
